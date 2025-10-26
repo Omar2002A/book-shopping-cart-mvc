@@ -1,0 +1,31 @@
+# Ignore Visual Studio temporary files, build results, and other unnecessary stuff
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio files
+.vs/
+
+# Local database files
+*.mdf
+*.ldf
+*.db
+*.sqlite
+
+# Config files that contain secrets
+appsettings.Development.json
